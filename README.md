@@ -16,4 +16,4 @@ And an automatic build is available here:
 
 It can be ran like this:
 
-    docker run -p7:7 kkonstan/docker-test
+    docker run -p 7:7 kkonstan/docker-test
