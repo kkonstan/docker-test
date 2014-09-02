@@ -10,7 +10,11 @@ A server listens for TCP connections on TCP port 7.  Once a connection is establ
 
 ### Usage
 
-And an automatic build is available here:
+Source is maintained on GitHub:
+
+    https://github.com/kkonstan/docker-test
+
+And an automatic build is available at the Docker Hub:
 
     https://registry.hub.docker.com/u/kkonstan/docker-test/
 
