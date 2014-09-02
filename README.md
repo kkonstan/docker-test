@@ -11,8 +11,9 @@ A server listens for TCP connections on TCP port 7.  Once a connection is establ
 ### Usage
 
 And an automatic build is available here:
+
     https://registry.hub.docker.com/u/kkonstan/docker-test/
 
 It can be ran like this:
-    docker run -p7:7 kkonstan/docker-test
 
+    docker run -p7:7 kkonstan/docker-test
